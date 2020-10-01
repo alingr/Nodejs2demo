@@ -4,5 +4,9 @@
 }
 
 tr:hover{
-    background-color: lightblue;
+    background-color: lightgrey;
+}
+
+#fleet{
+    color: darkred;
 }
