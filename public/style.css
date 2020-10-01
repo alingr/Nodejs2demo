@@ -1,0 +1,8 @@
+#cars {
+    color: mediumblue;
+    
+}
+
+tr:hover{
+    background-color: lightblue;
+}
